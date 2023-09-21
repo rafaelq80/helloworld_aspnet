@@ -15,7 +15,7 @@ namespace helloworld.Controllers
         [HttpGet("/meunome")]
         public string MeuNome()
         {
-            return "Rafael Queiróz";
+            return "Rafael\nQueiróz";
         }
     }
 }
